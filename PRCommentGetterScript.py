@@ -9,4 +9,3 @@ def get_data(api):
             print("Acest api a cedat stresului :(")
 
 get_data("https://api.github.com/repos/zbantalexandru/testRepoForComments/pulls/comments");
-print(2+2);
